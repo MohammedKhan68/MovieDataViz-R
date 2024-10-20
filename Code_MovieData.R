@@ -53,7 +53,6 @@ b + labs(title="Domestic Growth",
     axis.title.y = element_text(color="green", size="12", face="bold"),
     
   )
-?theme
 
 
 
